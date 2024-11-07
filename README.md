@@ -1,2 +1,2 @@
-# nextjs_aws_amplify_auth
+# Nextjs AWS Amplify Auth
 Exploring AWS Amplify Auth Solutions with a simple Nextjs App
